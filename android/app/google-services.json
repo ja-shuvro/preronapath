@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "187778246473",
+    "project_id": "preronapath",
+    "storage_bucket": "preronapath.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187778246473:android:a8c745a6f296c7564d9c98",
+        "android_client_info": {
+          "package_name": "com.example.preronapath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187778246473-a5r2mmen39c8rf1vqmb2dpdi2uk6sc70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.preronapath",
+            "certificate_hash": "d2c12f7e48af4030a0b14b38c9c49ceecb85eee7"
+          }
+        },
+        {
+          "client_id": "187778246473-9pvek1gija8a47epccp207un6pqu1l3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR3MIKPGLhA7FHPlWFJcR3lV5m9_aDbyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187778246473-9pvek1gija8a47epccp207un6pqu1l3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187778246473-diluucjf5ilotmej6slufgvaec5sj8ae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.preronapath"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
